@@ -280,7 +280,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JDtYKTNGY9HrxcbLR1I3-17" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;销售订单&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#6c8ebf;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#dae8fc;dashed=1;" parent="1" vertex="1">
+        <mxCell id="JDtYKTNGY9HrxcbLR1I3-17" value="&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;按供应商拆分&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;销售订单&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#6c8ebf;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#dae8fc;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="140" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JDtYKTNGY9HrxcbLR1I3-21" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;销售订单&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#6c8ebf;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#dae8fc;dashed=1;" parent="1" vertex="1">
