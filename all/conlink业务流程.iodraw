@@ -272,11 +272,6 @@
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#82b366;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;curved=0;fillColor=#d5e8d4;dashed=1;" edge="1" parent="1" source="JDtYKTNGY9HrxcbLR1I3-13" target="JDtYKTNGY9HrxcbLR1I3-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-61" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jRbHX8CSwpANmxKNQ8Nv-60">
-          <mxGeometry x="-0.2842" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="JDtYKTNGY9HrxcbLR1I3-13" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;采购订单&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#82b366;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="260" y="330" width="70" height="40" as="geometry" />
         </mxCell>
