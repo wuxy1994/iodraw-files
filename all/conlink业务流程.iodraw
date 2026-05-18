@@ -435,7 +435,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-25" value="多货源支持" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#d0cee2;strokeColor=#56517e;sketch=1;curveFitting=1;jiggle=2;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="250" y="-450" width="140" height="80" as="geometry" />
+          <mxGeometry x="690" y="-240" width="180" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
