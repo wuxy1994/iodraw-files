@@ -298,7 +298,13 @@
           <mxGeometry x="1320" y="240" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v0ro38-pH1W2L11CEjts-2" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;包材管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="477" y="-50" width="73" height="40" as="geometry" />
+          <mxGeometry x="120" y="50" width="73" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v0ro38-pH1W2L11CEjts-3" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;BOM管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="250" y="80" width="73" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v0ro38-pH1W2L11CEjts-4" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;BOM管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="90" width="73" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
