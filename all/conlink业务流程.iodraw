@@ -448,6 +448,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jRbHX8CSwpANmxKNQ8Nv-43" target="jRbHX8CSwpANmxKNQ8Nv-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-43" value="是否齐套" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=0;strokeColor=#82b366;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#d5e8d4;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="310" width="80" height="80" as="geometry" />
         </mxCell>
@@ -475,6 +478,9 @@
           <mxGeometry x="-0.2609" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-65" value="" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;shadow=1;glass=0;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
