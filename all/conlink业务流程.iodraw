@@ -306,6 +306,9 @@
         <mxCell id="JDtYKTNGY9HrxcbLR1I3-2" value="是否&lt;div&gt;多货源&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="220" width="70" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JDtYKTNGY9HrxcbLR1I3-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
