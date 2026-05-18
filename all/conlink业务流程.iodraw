@@ -256,6 +256,9 @@
         <mxCell id="v0ro38-pH1W2L11CEjts-2" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;包材管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="130" y="-120" width="73" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v0ro38-pH1W2L11CEjts-3" target="jRbHX8CSwpANmxKNQ8Nv-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="v0ro38-pH1W2L11CEjts-3" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;BOM管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="130" y="-50" width="73" height="40" as="geometry" />
         </mxCell>
@@ -263,18 +266,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v0ro38-pH1W2L11CEjts-4" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;包材&lt;/span&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;货源&lt;span style=&quot;background-color: initial;&quot;&gt;关系&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="380" y="-70" width="73" height="40" as="geometry" />
+          <mxGeometry x="660" y="-80" width="73" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v0ro38-pH1W2L11CEjts-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="v0ro38-pH1W2L11CEjts-5" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="546.5" y="-120" as="targetPoint" />
+            <mxPoint x="826.5" y="-130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v0ro38-pH1W2L11CEjts-5" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;路线管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="510" y="-70" width="73" height="40" as="geometry" />
+          <mxGeometry x="790" y="-80" width="73" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v0ro38-pH1W2L11CEjts-9" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;路线&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;费用管理&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="510" y="-130" width="73" height="40" as="geometry" />
+          <mxGeometry x="790" y="-140" width="73" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JDtYKTNGY9HrxcbLR1I3-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JDtYKTNGY9HrxcbLR1I3-2" target="JDtYKTNGY9HrxcbLR1I3-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -366,7 +369,7 @@
           <mxGeometry x="-60" y="-340" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JDtYKTNGY9HrxcbLR1I3-36" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;企业审批&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="510" y="-190" width="73" height="40" as="geometry" />
+          <mxGeometry x="790" y="-200" width="73" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-1" value="取消包材总成件选项" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#d0cee2;strokeColor=#56517e;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="-240" y="-10" width="80" height="60" as="geometry" />
@@ -375,7 +378,7 @@
           <mxGeometry x="-325" y="-5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-3" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;包材管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="283" y="-120" width="73" height="40" as="geometry" />
+          <mxGeometry x="290" y="-80" width="73" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
