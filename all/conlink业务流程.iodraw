@@ -8,7 +8,7 @@
           <mxGeometry x="-380" y="-50" width="190" height="170" as="geometry" />
         </mxCell>
         <mxCell id="us9yHeRmQOWti7z-wEtc-1" value="零件供应商" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-40" y="400" width="30" height="60" as="geometry" />
+          <mxGeometry x="-40" y="390" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="us9yHeRmQOWti7z-wEtc-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" parent="1" source="us9yHeRmQOWti7z-wEtc-7" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -345,6 +345,12 @@
         </mxCell>
         <mxCell id="JDtYKTNGY9HrxcbLR1I3-27" value="包材库存" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#82b366;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="520" y="390" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDtYKTNGY9HrxcbLR1I3-28" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="420" as="sourcePoint" />
+            <mxPoint x="310" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
