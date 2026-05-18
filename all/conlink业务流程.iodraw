@@ -377,8 +377,10 @@
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-2" value="新增功能点&lt;div&gt;描述&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-325" y="-5" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jRbHX8CSwpANmxKNQ8Nv-3" target="jRbHX8CSwpANmxKNQ8Nv-23">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jRbHX8CSwpANmxKNQ8Nv-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="669" y="-119" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-3" value="流程配置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="379" y="-149" width="180" height="60" as="geometry" />
@@ -432,8 +434,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-23" value="" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;strokeWidth=2;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="669" y="-149" width="120" height="60" as="geometry" />
+        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-25" value="多货源支持" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#d0cee2;strokeColor=#56517e;sketch=1;curveFitting=1;jiggle=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="250" y="-450" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
