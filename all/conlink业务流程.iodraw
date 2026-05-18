@@ -19,11 +19,10 @@
         <mxCell id="us9yHeRmQOWti7z-wEtc-14" value="包材供应商" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-40" y="90" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="us9yHeRmQOWti7z-wEtc-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="us9yHeRmQOWti7z-wEtc-17" target="us9yHeRmQOWti7z-wEtc-19" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="us9yHeRmQOWti7z-wEtc-17" value="销售订单" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};rounded=1;shadow=1;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="280" y="110" width="70" height="40" as="geometry" />
+        <mxCell id="us9yHeRmQOWti7z-wEtc-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" target="us9yHeRmQOWti7z-wEtc-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="130" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="us9yHeRmQOWti7z-wEtc-19" value="包材发运" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};rounded=1;shadow=1;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="430" y="110" width="70" height="40" as="geometry" />
@@ -307,7 +306,10 @@
           <mxGeometry x="280" y="220" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JDtYKTNGY9HrxcbLR1I3-7" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;销售订单&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#6c8ebf;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="120" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="110" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDtYKTNGY9HrxcbLR1I3-8" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;销售订单&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#6c8ebf;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="560" y="120" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
