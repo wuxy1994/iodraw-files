@@ -263,7 +263,7 @@
         <mxCell id="JDtYKTNGY9HrxcbLR1I3-8" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;包材发运&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#6c8ebf;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="420" y="140" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JDtYKTNGY9HrxcbLR1I3-11" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;包材签收&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#82b366;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#d5e8d4;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
+        <mxCell id="JDtYKTNGY9HrxcbLR1I3-11" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;包材签收&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#82b366;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#d5e8d4;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="425" y="330" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JDtYKTNGY9HrxcbLR1I3-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JDtYKTNGY9HrxcbLR1I3-13" target="JDtYKTNGY9HrxcbLR1I3-2" edge="1">
@@ -456,6 +456,9 @@
         </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-52" value="零件供应商首页看板：&lt;div&gt;1.包材在途库存&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;fontStyle=1;align=left;fontSize=12;strokeWidth=2;verticalAlign=top;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="1190" y="290" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jRbHX8CSwpANmxKNQ8Nv-54" target="JDtYKTNGY9HrxcbLR1I3-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-54" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;包材发运&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#6c8ebf;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="520" y="140" width="80" height="40" as="geometry" />
