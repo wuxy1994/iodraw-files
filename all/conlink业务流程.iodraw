@@ -212,7 +212,7 @@
           <mxGeometry x="30" y="10" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="twXMOeOCAfbSv4D04kPh-1" value="路线&lt;div&gt;费用管理&lt;/div&gt;" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};rounded=1;shadow=1;glass=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="473" y="-50" width="70" height="40" as="geometry" />
+          <mxGeometry x="473" y="-70" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EbAioNc_ZzHBUW8JC9eh-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" source="QJAXbfrYb_pOBaX4yy8--1" target="EbAioNc_ZzHBUW8JC9eh-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -300,6 +300,9 @@
               <mxPoint x="701" y="445" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="v0ro38-pH1W2L11CEjts-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
