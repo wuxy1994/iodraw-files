@@ -211,28 +211,8 @@
         <mxCell id="XOlWhrpBlYfV6GB-yNbL-32" value="主数据" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="30" y="10" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EbAioNc_ZzHBUW8JC9eh-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" target="EbAioNc_ZzHBUW8JC9eh-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="194" y="50" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="QJAXbfrYb_pOBaX4yy8--2" value="超级管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-40" y="20" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="EbAioNc_ZzHBUW8JC9eh-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" source="EbAioNc_ZzHBUW8JC9eh-1" target="EbAioNc_ZzHBUW8JC9eh-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EbAioNc_ZzHBUW8JC9eh-1" value="BOM管理" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};rounded=1;shadow=1;glass=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="240" y="30" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="EbAioNc_ZzHBUW8JC9eh-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" source="EbAioNc_ZzHBUW8JC9eh-3" target="EbAioNc_ZzHBUW8JC9eh-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EbAioNc_ZzHBUW8JC9eh-3" value="包材&lt;div&gt;货源&lt;span style=&quot;background-color: initial;&quot;&gt;关系&lt;/span&gt;&lt;/div&gt;" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};rounded=1;shadow=1;glass=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="360" y="30" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="EbAioNc_ZzHBUW8JC9eh-5" value="路线管理" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};rounded=1;shadow=1;glass=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="475" y="30" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EbAioNc_ZzHBUW8JC9eh-19" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="130" y="20" width="20" height="20" as="geometry" />
@@ -303,8 +283,11 @@
         <mxCell id="v0ro38-pH1W2L11CEjts-3" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;BOM管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="250" y="80" width="73" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v0ro38-pH1W2L11CEjts-4" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;BOM管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="v0ro38-pH1W2L11CEjts-4" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;包材&lt;/span&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;货源&lt;span style=&quot;background-color: initial;&quot;&gt;关系&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="370" y="90" width="73" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v0ro38-pH1W2L11CEjts-5" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;路线管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="500" y="90" width="73" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
