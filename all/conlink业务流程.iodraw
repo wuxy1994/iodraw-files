@@ -19,7 +19,7 @@
         <mxCell id="us9yHeRmQOWti7z-wEtc-14" value="包材供应商" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-40" y="90" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="us9yHeRmQOWti7z-wEtc-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" parent="1" target="us9yHeRmQOWti7z-wEtc-22" edge="1">
+        <mxCell id="us9yHeRmQOWti7z-wEtc-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="JDtYKTNGY9HrxcbLR1I3-11" target="us9yHeRmQOWti7z-wEtc-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="500" y="320" as="sourcePoint" />
           </mxGeometry>
@@ -281,14 +281,8 @@
         <mxCell id="v0ro38-pH1W2L11CEjts-9" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;路线&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;费用管理&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="510" y="-60" width="73" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JDtYKTNGY9HrxcbLR1I3-3" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1" target="JDtYKTNGY9HrxcbLR1I3-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="315" y="270" as="sourcePoint" />
-            <mxPoint x="315" y="200" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="JDtYKTNGY9HrxcbLR1I3-2" value="是否&lt;div&gt;多货源&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="220" width="70" height="60" as="geometry" />
+          <mxGeometry x="260" y="190" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JDtYKTNGY9HrxcbLR1I3-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JDtYKTNGY9HrxcbLR1I3-7" target="JDtYKTNGY9HrxcbLR1I3-8">
           <mxGeometry relative="1" as="geometry" />
