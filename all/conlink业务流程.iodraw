@@ -380,6 +380,9 @@
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="310" y="-86" width="73" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-6" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;包材&lt;/span&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;货源&lt;span style=&quot;background-color: initial;&quot;&gt;关系&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-140" width="73" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
