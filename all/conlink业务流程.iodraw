@@ -188,21 +188,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XOlWhrpBlYfV6GB-yNbL-32" value="主数据" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="30" y="-130" width="60" height="80" as="geometry" />
+          <mxGeometry x="30" y="-180" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QJAXbfrYb_pOBaX4yy8--2" value="超级管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-40" y="-120" width="30" height="60" as="geometry" />
+          <mxGeometry x="-40" y="-170" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JDtYKTNGY9HrxcbLR1I3-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=140;exitDy=55;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EbAioNc_ZzHBUW8JC9eh-20" target="v0ro38-pH1W2L11CEjts-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="100" y="-185" />
-              <mxPoint x="100" y="-100" />
+              <mxPoint x="100" y="-235" />
+              <mxPoint x="100" y="-150" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="EbAioNc_ZzHBUW8JC9eh-20" value="取消包材总成件选项" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#d0cee2;strokeColor=#56517e;sketch=1;curveFitting=1;jiggle=2;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-90" y="-240" width="140" height="80" as="geometry" />
+          <mxGeometry x="-90" y="-290" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EbAioNc_ZzHBUW8JC9eh-25" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=2;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" target="JDtYKTNGY9HrxcbLR1I3-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -254,13 +254,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v0ro38-pH1W2L11CEjts-2" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;包材管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="130" y="-120" width="73" height="40" as="geometry" />
+          <mxGeometry x="130" y="-170" width="73" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v0ro38-pH1W2L11CEjts-3" target="jRbHX8CSwpANmxKNQ8Nv-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v0ro38-pH1W2L11CEjts-3" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;BOM管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="130" y="-50" width="73" height="40" as="geometry" />
+          <mxGeometry x="130" y="-100" width="73" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v0ro38-pH1W2L11CEjts-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="v0ro38-pH1W2L11CEjts-4" target="v0ro38-pH1W2L11CEjts-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -360,13 +360,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JDtYKTNGY9HrxcbLR1I3-31" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;企业审批&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="130" y="-250" width="73" height="40" as="geometry" />
+          <mxGeometry x="130" y="-300" width="73" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JDtYKTNGY9HrxcbLR1I3-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=140;exitDy=55;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JDtYKTNGY9HrxcbLR1I3-33" target="JDtYKTNGY9HrxcbLR1I3-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JDtYKTNGY9HrxcbLR1I3-33" value="增加VMI选项" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#d0cee2;strokeColor=#56517e;sketch=1;curveFitting=1;jiggle=2;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-60" y="-340" width="140" height="80" as="geometry" />
+          <mxGeometry x="-60" y="-390" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JDtYKTNGY9HrxcbLR1I3-36" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;企业审批&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="790" y="-200" width="73" height="40" as="geometry" />
@@ -378,19 +378,19 @@
           <mxGeometry x="-325" y="-5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-3" value="路线管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="350" y="-86" width="73" height="40" as="geometry" />
+          <mxGeometry x="350" y="-136" width="73" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jRbHX8CSwpANmxKNQ8Nv-6" target="jRbHX8CSwpANmxKNQ8Nv-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-6" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;包材&lt;/span&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;货源&lt;span style=&quot;background-color: initial;&quot;&gt;关系&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="-180" width="73" height="40" as="geometry" />
+          <mxGeometry x="350" y="-230" width="73" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jRbHX8CSwpANmxKNQ8Nv-8" target="jRbHX8CSwpANmxKNQ8Nv-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-8" value="多货源支持" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#d0cee2;strokeColor=#56517e;sketch=1;curveFitting=1;jiggle=2;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="200" y="-410" width="140" height="80" as="geometry" />
+          <mxGeometry x="200" y="-460" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.529;entryY=0.966;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jRbHX8CSwpANmxKNQ8Nv-10" target="jRbHX8CSwpANmxKNQ8Nv-8">
           <mxGeometry relative="1" as="geometry" />
@@ -401,7 +401,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-10" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;包材&lt;/span&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;货源&lt;span style=&quot;background-color: initial;&quot;&gt;关系&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="130" y="-180" width="73" height="40" as="geometry" />
+          <mxGeometry x="130" y="-230" width="73" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
