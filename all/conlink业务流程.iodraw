@@ -456,8 +456,8 @@
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-48" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;包材收货&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#82b366;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="570" y="330" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-51" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;齐套管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#82b366;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#d5e8d4;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="340" width="70" height="40" as="geometry" />
+        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-52" value="流程信息包含：&lt;br style=&quot;font-size: 11px;&quot;&gt;1.BOM信息（包材信息及BOM组成关系）&lt;div style=&quot;font-size: 11px;&quot;&gt;2.路线信息（定义BOM在系统中的流程流转节点信息）&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;3.包材货源关系（用于客户工厂返空提供包材信息）&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#d0cee2;strokeColor=#56517e;sketch=1;curveFitting=1;jiggle=2;fontStyle=1;align=left;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="290" width="280" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
