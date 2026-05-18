@@ -357,7 +357,7 @@
         </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-12" value="改造" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jRbHX8CSwpANmxKNQ8Nv-11">
           <mxGeometry x="0.0049" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-64" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-10" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;包材&lt;/span&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;货源&lt;span style=&quot;background-color: initial;&quot;&gt;关系&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" vertex="1" parent="1">
