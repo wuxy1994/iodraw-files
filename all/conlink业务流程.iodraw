@@ -367,7 +367,7 @@
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jRbHX8CSwpANmxKNQ8Nv-15" target="jRbHX8CSwpANmxKNQ8Nv-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.594;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jRbHX8CSwpANmxKNQ8Nv-15" target="jRbHX8CSwpANmxKNQ8Nv-35">
+        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.064;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jRbHX8CSwpANmxKNQ8Nv-15" target="jRbHX8CSwpANmxKNQ8Nv-35">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="970" y="-270" as="targetPoint" />
           </mxGeometry>
@@ -495,7 +495,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-71" value="客户工厂/&lt;div&gt;零件供应商&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;strokeWidth=2;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="-430" width="80" height="80" as="geometry" />
+          <mxGeometry x="1100" y="-370" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-73" value="关联VMI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1240" y="-410" width="90" height="40" as="geometry" />
