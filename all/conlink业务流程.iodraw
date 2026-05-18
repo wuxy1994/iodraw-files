@@ -342,7 +342,7 @@
             <mxPoint x="23" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDtYKTNGY9HrxcbLR1I3-31">
+        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDtYKTNGY9HrxcbLR1I3-31" target="jRbHX8CSwpANmxKNQ8Nv-33">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="880" y="-336.0000000000002" as="targetPoint" />
           </mxGeometry>
@@ -442,7 +442,7 @@
           <mxGeometry x="80" y="330" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-33" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;企业审批&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="-360" width="73" height="40" as="geometry" />
+          <mxGeometry x="1990" y="80" width="73" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
