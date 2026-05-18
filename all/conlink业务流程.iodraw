@@ -348,13 +348,13 @@
         </mxCell>
         <mxCell id="JDtYKTNGY9HrxcbLR1I3-29" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="-510" y="368" as="sourcePoint" />
-            <mxPoint x="1500.5714285714287" y="368" as="targetPoint" />
+            <mxPoint x="-510" y="370" as="sourcePoint" />
+            <mxPoint x="1500.5714285714287" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JDtYKTNGY9HrxcbLR1I3-30" value="开发阶段分割线" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="JDtYKTNGY9HrxcbLR1I3-29">
           <mxGeometry x="-0.2269" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
