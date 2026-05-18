@@ -360,9 +360,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JDtYKTNGY9HrxcbLR1I3-31" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;企业审批&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="130" y="-300" width="73" height="40" as="geometry" />
+          <mxGeometry x="150" y="-340" width="73" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JDtYKTNGY9HrxcbLR1I3-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=140;exitDy=55;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JDtYKTNGY9HrxcbLR1I3-33" target="JDtYKTNGY9HrxcbLR1I3-31" edge="1">
+        <mxCell id="JDtYKTNGY9HrxcbLR1I3-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=140;exitDy=55;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JDtYKTNGY9HrxcbLR1I3-33" target="JDtYKTNGY9HrxcbLR1I3-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JDtYKTNGY9HrxcbLR1I3-33" value="增加VMI选项" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#d0cee2;strokeColor=#56517e;sketch=1;curveFitting=1;jiggle=2;fontStyle=1" parent="1" vertex="1">
