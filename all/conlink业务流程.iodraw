@@ -310,12 +310,6 @@
             <mxPoint x="23" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="jRbHX8CSwpANmxKNQ8Nv-33">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1050" y="-336.0000000000002" as="targetPoint" />
-            <mxPoint x="1070" y="-340" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="JDtYKTNGY9HrxcbLR1I3-31" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;企业审批&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="130" y="-356" width="73" height="40" as="geometry" />
         </mxCell>
@@ -514,6 +508,9 @@
             <mxPoint x="910" y="-336" as="targetPoint" />
             <mxPoint x="203" y="-336" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jRbHX8CSwpANmxKNQ8Nv-79" target="jRbHX8CSwpANmxKNQ8Nv-33">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-79" value="企业管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="-356" width="90" height="40" as="geometry" />
