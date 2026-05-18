@@ -535,6 +535,9 @@
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jRbHX8CSwpANmxKNQ8Nv-86" target="jRbHX8CSwpANmxKNQ8Nv-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jRbHX8CSwpANmxKNQ8Nv-86" target="jRbHX8CSwpANmxKNQ8Nv-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-86" value="授权逻辑：&lt;div&gt;1.VMI 可以作为单独节点进行运营管理，不需要切换不同账号【零件供应商 / 客户工厂与 VMI 企业或同企业类型之间的关联关系功能，即零件供应商 / 客户工厂可设置哪些 VMI 作为各自企业的 VMI，并在路线设置时根据关联关系进行配置。】&lt;br&gt;&lt;table style=&quot;border-collapse:&lt;br/&gt; collapse;width:293pt&quot; width=&quot;391&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;height:28.5pt&quot; height=&quot;38&quot;&gt;  &lt;td style=&quot;height:28.5pt;width:293pt&quot; width=&quot;391&quot; class=&quot;xl65&quot; height=&quot;38&quot;&gt;2. 客户工厂/ 零件供应商可看到其 VMI 下的库存&lt;br&gt;【单只能看到自己相关库存，不能看到 VMI 其他库存】&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="shape=note;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#d0cee2;strokeColor=#56517e;sketch=1;curveFitting=1;jiggle=2;fontStyle=1;align=left;fontSize=11;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1361" y="-261" width="580" height="170" as="geometry" />
         </mxCell>
@@ -547,7 +550,7 @@
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-89" value="库存管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1360" y="-50" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-92" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;齐套信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#82b366;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#d5e8d4;dashed=1;" vertex="1" parent="1">
+        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-92" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;库存管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#82b366;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#d5e8d4;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1530" y="410" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
