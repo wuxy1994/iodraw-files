@@ -323,7 +323,7 @@
           <mxGeometry x="-240" y="-80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JDtYKTNGY9HrxcbLR1I3-22" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;销售订单&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#6c8ebf;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="-235" y="80" width="80" height="40" as="geometry" />
+          <mxGeometry x="-240" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JDtYKTNGY9HrxcbLR1I3-23" value="图例：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-320" y="-120" width="60" height="30" as="geometry" />
@@ -361,10 +361,10 @@
           <mxGeometry x="510" y="-190" width="73" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-1" value="取消包材总成件选项" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#d0cee2;strokeColor=#56517e;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="50" width="80" height="60" as="geometry" />
+          <mxGeometry x="-240" y="-10" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-2" value="新增功能" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="-65" width="70" height="30" as="geometry" />
+        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-2" value="新增功能点&lt;div&gt;描述&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-325" y="-5" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
