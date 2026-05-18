@@ -380,9 +380,15 @@
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jRbHX8CSwpANmxKNQ8Nv-3" target="jRbHX8CSwpANmxKNQ8Nv-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="jRbHX8CSwpANmxKNQ8Nv-3">
+        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jRbHX8CSwpANmxKNQ8Nv-3" target="jRbHX8CSwpANmxKNQ8Nv-18">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="-470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="455" y="-170" />
+              <mxPoint x="510" y="-170" />
+              <mxPoint x="510" y="-315" />
+              <mxPoint x="560" y="-315" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-3" value="路线管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;dashed=1;" vertex="1" parent="1">
@@ -419,6 +425,9 @@
         </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-15" value="路线费用&lt;div&gt;管理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="553" y="-140" width="73" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-18" value="多货源支持" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#d0cee2;strokeColor=#56517e;sketch=1;curveFitting=1;jiggle=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="490" y="-570" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
