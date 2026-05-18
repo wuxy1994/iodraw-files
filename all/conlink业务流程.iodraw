@@ -35,20 +35,18 @@
         <mxCell id="us9yHeRmQOWti7z-wEtc-25" value="零件交货" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};rounded=1;shadow=1;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="124" y="450" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="us9yHeRmQOWti7z-wEtc-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" parent="1" source="us9yHeRmQOWti7z-wEtc-26" target="us9yHeRmQOWti7z-wEtc-25" edge="1">
+        <mxCell id="us9yHeRmQOWti7z-wEtc-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" parent="1" target="us9yHeRmQOWti7z-wEtc-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="159" y="410" />
             </Array>
+            <mxPoint x="529" y="410.02857142857147" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="us9yHeRmQOWti7z-wEtc-26" value="包材库存" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};rounded=1;shadow=1;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="529" y="390" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="us9yHeRmQOWti7z-wEtc-27" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" parent="1" source="us9yHeRmQOWti7z-wEtc-22" target="us9yHeRmQOWti7z-wEtc-26" edge="1">
+        <mxCell id="us9yHeRmQOWti7z-wEtc-27" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" parent="1" source="us9yHeRmQOWti7z-wEtc-22" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="440" as="sourcePoint" />
-            <mxPoint x="440" y="390" as="targetPoint" />
+            <mxPoint x="599" y="410" as="targetPoint" />
             <Array as="points">
               <mxPoint x="680" y="410" />
               <mxPoint x="615" y="410" />
@@ -344,8 +342,8 @@
         <mxCell id="JDtYKTNGY9HrxcbLR1I3-26" value="原功能" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-375" y="66" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JDtYKTNGY9HrxcbLR1I3-27" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="JDtYKTNGY9HrxcbLR1I3-27" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#82b366;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="520" y="390" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
