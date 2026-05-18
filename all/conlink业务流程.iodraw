@@ -235,9 +235,6 @@
         <mxCell id="EbAioNc_ZzHBUW8JC9eh-5" value="路线管理" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};rounded=1;shadow=1;glass=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="475" y="30" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EbAioNc_ZzHBUW8JC9eh-8" value="线路&lt;div&gt;分析配置&lt;/div&gt;" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};rounded=1;shadow=1;glass=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="690" y="30" width="70" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="EbAioNc_ZzHBUW8JC9eh-19" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="130" y="20" width="20" height="20" as="geometry" />
         </mxCell>
@@ -299,7 +296,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="v0ro38-pH1W2L11CEjts-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="480" y="-60" width="70" height="40" as="geometry" />
+          <mxGeometry x="1320" y="240" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
