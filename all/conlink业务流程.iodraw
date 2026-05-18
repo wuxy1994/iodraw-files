@@ -401,6 +401,10 @@
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.341;entryY=-0.027;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="jRbHX8CSwpANmxKNQ8Nv-26" target="jRbHX8CSwpANmxKNQ8Nv-30" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="100" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="10" />
+              <mxPoint x="110" y="329" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-31" value="流程BOM号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="jRbHX8CSwpANmxKNQ8Nv-29" vertex="1" connectable="0">
