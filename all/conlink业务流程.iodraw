@@ -541,7 +541,7 @@
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.231;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jRbHX8CSwpANmxKNQ8Nv-73" target="jRbHX8CSwpANmxKNQ8Nv-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-89" value="组织授权" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-89" value="库存管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1360" y="-50" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
