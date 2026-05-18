@@ -7,14 +7,13 @@
         <mxCell id="us9yHeRmQOWti7z-wEtc-1" value="零件供应商" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-40" y="370" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="us9yHeRmQOWti7z-wEtc-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" parent="1" source="us9yHeRmQOWti7z-wEtc-7" target="us9yHeRmQOWti7z-wEtc-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="us9yHeRmQOWti7z-wEtc-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" parent="1" source="us9yHeRmQOWti7z-wEtc-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="320" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="us9yHeRmQOWti7z-wEtc-7" value="包材计划" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};rounded=1;shadow=1;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="124" y="300" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="us9yHeRmQOWti7z-wEtc-12" value="采购订单" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};rounded=1;shadow=1;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="260" y="300" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="us9yHeRmQOWti7z-wEtc-14" value="包材供应商" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-40" y="90" width="30" height="60" as="geometry" />
@@ -281,6 +280,9 @@
         <mxCell id="v0ro38-pH1W2L11CEjts-9" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;路线&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;费用管理&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="510" y="-60" width="73" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="JDtYKTNGY9HrxcbLR1I3-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDtYKTNGY9HrxcbLR1I3-2" target="JDtYKTNGY9HrxcbLR1I3-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JDtYKTNGY9HrxcbLR1I3-2" value="是否&lt;div&gt;多货源&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="190" width="70" height="60" as="geometry" />
         </mxCell>
@@ -299,8 +301,11 @@
         <mxCell id="JDtYKTNGY9HrxcbLR1I3-11" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;包材签收&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#82b366;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="425" y="300" width="70" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="JDtYKTNGY9HrxcbLR1I3-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDtYKTNGY9HrxcbLR1I3-13" target="JDtYKTNGY9HrxcbLR1I3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JDtYKTNGY9HrxcbLR1I3-13" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;采购订单&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#82b366;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="260" y="340" width="70" height="40" as="geometry" />
+          <mxGeometry x="260" y="300" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
