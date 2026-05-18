@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="oWgzkpYfjGaghQNqlB72">
-    <mxGraphModel dx="2261" dy="2125" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1646" dy="1715" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -215,7 +215,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="twXMOeOCAfbSv4D04kPh-1" value="路线&lt;div&gt;费用管理&lt;/div&gt;" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};rounded=1;shadow=1;glass=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="480" y="-50" width="70" height="40" as="geometry" />
+          <mxGeometry x="470" y="-50" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EbAioNc_ZzHBUW8JC9eh-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" source="QJAXbfrYb_pOBaX4yy8--1" target="EbAioNc_ZzHBUW8JC9eh-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -237,9 +237,6 @@
         </mxCell>
         <mxCell id="EbAioNc_ZzHBUW8JC9eh-3" value="包材&lt;div&gt;货源&lt;span style=&quot;background-color: initial;&quot;&gt;关系&lt;/span&gt;&lt;/div&gt;" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};rounded=1;shadow=1;glass=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="360" y="30" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="EbAioNc_ZzHBUW8JC9eh-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" source="EbAioNc_ZzHBUW8JC9eh-5" target="twXMOeOCAfbSv4D04kPh-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EbAioNc_ZzHBUW8JC9eh-5" value="路线管理" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};rounded=1;shadow=1;glass=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="475" y="30" width="70" height="40" as="geometry" />
