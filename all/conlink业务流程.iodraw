@@ -547,6 +547,9 @@
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-89" value="库存管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1360" y="-50" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-92" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;齐套信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#82b366;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#d5e8d4;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="410" width="70" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
