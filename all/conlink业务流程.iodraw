@@ -455,7 +455,7 @@
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-36" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;包材签收&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#82b366;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="710" y="250" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-37" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-37" value="签收" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#6c8ebf;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="1040" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
