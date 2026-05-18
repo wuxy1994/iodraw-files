@@ -204,7 +204,7 @@
               <mxPoint x="641" y="570" />
               <mxPoint x="691" y="570" />
               <mxPoint x="691" y="500" />
-              <mxPoint x="691" y="420" />
+              <mxPoint x="690" y="350" />
               <mxPoint x="641" y="420" />
             </Array>
           </mxGeometry>
@@ -338,7 +338,7 @@
         </mxCell>
         <mxCell id="JDtYKTNGY9HrxcbLR1I3-30" value="开发阶段分割线" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="JDtYKTNGY9HrxcbLR1I3-29">
           <mxGeometry x="-0.2269" y="-2" relative="1" as="geometry">
-            <mxPoint y="-74" as="offset" />
+            <mxPoint x="23" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JDtYKTNGY9HrxcbLR1I3-31" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;企业审批&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" vertex="1" parent="1">
