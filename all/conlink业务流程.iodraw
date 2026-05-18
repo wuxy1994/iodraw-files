@@ -25,12 +25,6 @@
         <mxCell id="us9yHeRmQOWti7z-wEtc-17" value="销售订单" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};rounded=1;shadow=1;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="280" y="160" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="us9yHeRmQOWti7z-wEtc-18" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" parent="1" target="us9yHeRmQOWti7z-wEtc-17" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="315" y="270" as="sourcePoint" />
-            <mxPoint x="340" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="us9yHeRmQOWti7z-wEtc-19" value="包材发运" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};rounded=1;shadow=1;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="430" y="160" width="70" height="40" as="geometry" />
         </mxCell>
@@ -303,8 +297,17 @@
         <mxCell id="v0ro38-pH1W2L11CEjts-9" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;路线&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;费用管理&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="510" y="-60" width="73" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="JDtYKTNGY9HrxcbLR1I3-3" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1" target="JDtYKTNGY9HrxcbLR1I3-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="315" y="270" as="sourcePoint" />
+            <mxPoint x="315" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JDtYKTNGY9HrxcbLR1I3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDtYKTNGY9HrxcbLR1I3-2" target="us9yHeRmQOWti7z-wEtc-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JDtYKTNGY9HrxcbLR1I3-2" value="是否&lt;div&gt;多货源&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="190" width="70" height="60" as="geometry" />
+          <mxGeometry x="280" y="220" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
