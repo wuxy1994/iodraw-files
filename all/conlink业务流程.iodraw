@@ -425,7 +425,7 @@
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-53" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;glass=0;strokeColor=#82b366;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;fillColor=#d5e8d4;" edge="1" parent="1" source="jRbHX8CSwpANmxKNQ8Nv-36" target="jRbHX8CSwpANmxKNQ8Nv-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-36" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;齐套管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#82b366;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#d5e8d4;dashed=1;" vertex="1" parent="1">
+        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-36" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;齐套信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#82b366;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#d5e8d4;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="330" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-37" value="签收" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#6c8ebf;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#dae8fc;" vertex="1" parent="1">
@@ -475,6 +475,11 @@
         </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.07;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JDtYKTNGY9HrxcbLR1I3-8" target="jRbHX8CSwpANmxKNQ8Nv-52">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-64" value="在途库存" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jRbHX8CSwpANmxKNQ8Nv-63">
+          <mxGeometry x="-0.2609" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
