@@ -14,7 +14,7 @@
           <mxGeometry x="124" y="300" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="us9yHeRmQOWti7z-wEtc-12" value="采购订单" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};rounded=1;shadow=1;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="280" y="300" width="70" height="40" as="geometry" />
+          <mxGeometry x="260" y="300" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="us9yHeRmQOWti7z-wEtc-14" value="包材供应商" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-40" y="90" width="30" height="60" as="geometry" />
@@ -298,6 +298,9 @@
         </mxCell>
         <mxCell id="JDtYKTNGY9HrxcbLR1I3-11" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;包材签收&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#82b366;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="425" y="300" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDtYKTNGY9HrxcbLR1I3-13" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#82b366;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="270" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
