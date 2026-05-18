@@ -305,6 +305,9 @@
         <mxCell id="JDtYKTNGY9HrxcbLR1I3-8" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;包材发运&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#6c8ebf;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="420" y="110" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="JDtYKTNGY9HrxcbLR1I3-11" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#82b366;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="480" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
