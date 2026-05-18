@@ -31,6 +31,11 @@
             <mxPoint x="340" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="JDtYKTNGY9HrxcbLR1I3-1" value="拆分" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="us9yHeRmQOWti7z-wEtc-18">
+          <mxGeometry x="-0.1143" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="us9yHeRmQOWti7z-wEtc-19" value="包材发运" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};rounded=1;shadow=1;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="430" y="190" width="70" height="40" as="geometry" />
         </mxCell>
