@@ -386,7 +386,10 @@
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-6" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;包材&lt;/span&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;货源&lt;span style=&quot;background-color: initial;&quot;&gt;关系&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="300" y="-180" width="73" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-8" value="增加VMI选项" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#d0cee2;strokeColor=#56517e;sketch=1;curveFitting=1;jiggle=2;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jRbHX8CSwpANmxKNQ8Nv-8" target="jRbHX8CSwpANmxKNQ8Nv-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-8" value="多货源支持" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#d0cee2;strokeColor=#56517e;sketch=1;curveFitting=1;jiggle=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="200" y="-410" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
