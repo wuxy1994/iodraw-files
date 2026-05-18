@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="oWgzkpYfjGaghQNqlB72">
-    <mxGraphModel dx="1816" dy="1828" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1510" dy="1624" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -425,7 +425,7 @@
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-35" value="流程信息包含：&lt;br style=&quot;font-size: 11px;&quot;&gt;1.BOM信息（包材信息及BOM组成关系）&lt;div style=&quot;font-size: 11px;&quot;&gt;2.路线信息（定义BOM在系统中的流程流转节点信息）&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;3.包材货源关系（用于客户工厂返空提供包材信息）&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#d0cee2;strokeColor=#56517e;sketch=1;curveFitting=1;jiggle=2;fontStyle=1;align=left;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="1030" y="-300" width="280" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-36" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;齐套管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#82b366;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="1">
+        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-36" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;齐套管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#82b366;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#d5e8d4;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="330" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-37" value="签收" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#6c8ebf;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#dae8fc;" vertex="1" parent="1">
@@ -453,7 +453,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-43" value="是否齐套" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=0;strokeColor=#82b366;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="1">
+        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-43" value="是否齐套" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=0;strokeColor=#82b366;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#d5e8d4;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="310" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-48" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;包材收货&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#82b366;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="1">
