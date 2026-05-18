@@ -399,6 +399,11 @@
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jRbHX8CSwpANmxKNQ8Nv-15" target="jRbHX8CSwpANmxKNQ8Nv-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jRbHX8CSwpANmxKNQ8Nv-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="970" y="-270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-15" value="路线费用&lt;div&gt;管理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="-290" width="73" height="40" as="geometry" />
         </mxCell>
@@ -443,6 +448,9 @@
         </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-33" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;VMI权限管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="-356" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-35" value="流程信息包含：&lt;br style=&quot;font-size: 11px;&quot;&gt;1.BOM信息（包材信息及BOM组成关系）&lt;div style=&quot;font-size: 11px;&quot;&gt;2.路线信息（定义BOM在系统中的流程流转节点信息）&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;3.包材货源关系（用于客户工厂返空提供包材信息）&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#d0cee2;strokeColor=#56517e;sketch=1;curveFitting=1;jiggle=2;fontStyle=1;align=left;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="650" y="-590" width="280" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
