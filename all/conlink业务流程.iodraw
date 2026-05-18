@@ -494,11 +494,16 @@
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jRbHX8CSwpANmxKNQ8Nv-71" target="jRbHX8CSwpANmxKNQ8Nv-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-76" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jRbHX8CSwpANmxKNQ8Nv-74">
+          <mxGeometry x="-0.2733" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-71" value="客户工厂/&lt;div&gt;零件供应商&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;strokeWidth=2;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="-370" width="80" height="80" as="geometry" />
+          <mxGeometry x="1100" y="-376" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-73" value="关联VMI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="-410" width="90" height="40" as="geometry" />
+          <mxGeometry x="1280" y="-356" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-75" value="组织权限管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="-240" width="90" height="40" as="geometry" />
