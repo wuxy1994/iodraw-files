@@ -497,8 +497,11 @@
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-71" value="客户工厂/&lt;div&gt;零件供应商&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;strokeWidth=2;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1090" y="-430" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-73" value="VMI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="-410" width="90" height="40" as="geometry" />
+        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-73" value="关联VMI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="-410" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-75" value="组织权限管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="-346" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
