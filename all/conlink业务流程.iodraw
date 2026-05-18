@@ -412,6 +412,9 @@
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jRbHX8CSwpANmxKNQ8Nv-33" target="jRbHX8CSwpANmxKNQ8Nv-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jRbHX8CSwpANmxKNQ8Nv-33" target="jRbHX8CSwpANmxKNQ8Nv-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-33" value="组织权限管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1080" y="-356" width="90" height="40" as="geometry" />
         </mxCell>
