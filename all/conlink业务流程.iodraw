@@ -473,6 +473,9 @@
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-54" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;包材发运&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#6c8ebf;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#dae8fc;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="140" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.07;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JDtYKTNGY9HrxcbLR1I3-8" target="jRbHX8CSwpANmxKNQ8Nv-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
