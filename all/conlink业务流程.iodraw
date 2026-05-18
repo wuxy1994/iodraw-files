@@ -299,8 +299,8 @@
         <mxCell id="JDtYKTNGY9HrxcbLR1I3-11" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;包材签收&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#82b366;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="425" y="300" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JDtYKTNGY9HrxcbLR1I3-13" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#82b366;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="270" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="JDtYKTNGY9HrxcbLR1I3-13" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;采购订单&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#82b366;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="260" y="340" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
