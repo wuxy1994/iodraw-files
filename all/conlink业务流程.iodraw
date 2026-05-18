@@ -385,8 +385,7 @@
             <mxPoint x="560" y="-470" as="targetPoint" />
             <Array as="points">
               <mxPoint x="455" y="-170" />
-              <mxPoint x="560" y="-170" />
-              <mxPoint x="560" y="-490" />
+              <mxPoint x="530" y="-170" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -425,7 +424,7 @@
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-15" value="路线费用&lt;div&gt;管理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="553" y="-140" width="73" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-18" value="多货源支持" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#d0cee2;strokeColor=#56517e;sketch=1;curveFitting=1;jiggle=2;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-18" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#d0cee2;strokeColor=#56517e;sketch=1;curveFitting=1;jiggle=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="460" y="-570" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
