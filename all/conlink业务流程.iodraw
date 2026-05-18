@@ -193,7 +193,7 @@
         <mxCell id="QJAXbfrYb_pOBaX4yy8--2" value="超级管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-40" y="-10" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EbAioNc_ZzHBUW8JC9eh-20" value="取消包材总成件" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" vertex="1">
+        <mxCell id="EbAioNc_ZzHBUW8JC9eh-20" value="取消包材总成件选项" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" vertex="1">
           <mxGeometry x="-90" y="-170" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EbAioNc_ZzHBUW8JC9eh-25" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=2;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" edge="1" target="JDtYKTNGY9HrxcbLR1I3-27">
