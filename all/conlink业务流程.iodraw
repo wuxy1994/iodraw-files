@@ -8,7 +8,7 @@
           <mxGeometry x="-380" y="-50" width="190" height="170" as="geometry" />
         </mxCell>
         <mxCell id="us9yHeRmQOWti7z-wEtc-1" value="零件供应商" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-40" y="370" width="30" height="60" as="geometry" />
+          <mxGeometry x="-40" y="400" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="us9yHeRmQOWti7z-wEtc-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" parent="1" source="us9yHeRmQOWti7z-wEtc-7" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -206,7 +206,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EbAioNc_ZzHBUW8JC9eh-25" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+        <mxCell id="EbAioNc_ZzHBUW8JC9eh-25" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=2;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" edge="1" target="JDtYKTNGY9HrxcbLR1I3-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="570" as="sourcePoint" />
             <mxPoint x="600" y="420" as="targetPoint" />
