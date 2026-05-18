@@ -250,6 +250,9 @@
         <mxCell id="v0ro38-pH1W2L11CEjts-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1320" y="240" width="70" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v0ro38-pH1W2L11CEjts-2" target="jRbHX8CSwpANmxKNQ8Nv-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="v0ro38-pH1W2L11CEjts-2" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;包材管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="130" y="-120" width="73" height="40" as="geometry" />
         </mxCell>
@@ -370,6 +373,9 @@
         </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-2" value="新增功能点&lt;div&gt;描述&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-325" y="-5" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-3" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;包材管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="283" y="-120" width="73" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
