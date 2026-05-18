@@ -310,7 +310,7 @@
             <mxPoint x="23" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDtYKTNGY9HrxcbLR1I3-31" target="jRbHX8CSwpANmxKNQ8Nv-33">
+        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jRbHX8CSwpANmxKNQ8Nv-79" target="jRbHX8CSwpANmxKNQ8Nv-33">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="880" y="-336.0000000000002" as="targetPoint" />
           </mxGeometry>
@@ -508,8 +508,14 @@
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-75" value="用户一览" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="-220" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-79" value="组织权限管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="-220" width="90" height="40" as="geometry" />
+        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDtYKTNGY9HrxcbLR1I3-31" target="jRbHX8CSwpANmxKNQ8Nv-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="-336" as="targetPoint" />
+            <mxPoint x="203" y="-336" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-79" value="企业管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="-360" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
