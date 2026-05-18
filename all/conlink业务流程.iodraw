@@ -509,7 +509,7 @@
           <mxGeometry x="910" y="-220" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-79" value="组织权限管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="-346" width="90" height="40" as="geometry" />
+          <mxGeometry x="1100" y="-220" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
