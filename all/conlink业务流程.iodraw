@@ -194,17 +194,7 @@
           <mxGeometry x="-40" y="-10" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EbAioNc_ZzHBUW8JC9eh-20" value="取消包材总成件" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" vertex="1">
-          <mxGeometry x="-50" y="-170" width="140" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="EbAioNc_ZzHBUW8JC9eh-23" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.998;entryY=0.54;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="v0ro38-pH1W2L11CEjts-2" target="EbAioNc_ZzHBUW8JC9eh-20" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="-85" as="sourcePoint" />
-            <mxPoint x="250" y="-135" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="150" y="-10" />
-              <mxPoint x="140" y="-60" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="-90" y="-170" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EbAioNc_ZzHBUW8JC9eh-25" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=2;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" edge="1" target="JDtYKTNGY9HrxcbLR1I3-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -351,7 +341,7 @@
             <mxPoint y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JDtYKTNGY9HrxcbLR1I3-31" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;包材管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="JDtYKTNGY9HrxcbLR1I3-31" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;企业审批&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="130" y="-120" width="73" height="40" as="geometry" />
         </mxCell>
       </root>
