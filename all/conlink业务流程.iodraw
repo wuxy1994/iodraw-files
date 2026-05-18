@@ -414,7 +414,7 @@
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-30" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;包材计划&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#82b366;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="80" y="330" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jRbHX8CSwpANmxKNQ8Nv-33" target="jRbHX8CSwpANmxKNQ8Nv-35">
+        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jRbHX8CSwpANmxKNQ8Nv-33" target="jRbHX8CSwpANmxKNQ8Nv-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-33" value="组织权限管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;dashed=1;" vertex="1" parent="1">
@@ -490,6 +490,9 @@
         </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-68" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;绑定零件&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="240" y="-60" width="73" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-71" value="客户工厂/&lt;div&gt;零件供应商&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="-430" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
