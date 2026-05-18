@@ -346,6 +346,9 @@
         <mxCell id="JDtYKTNGY9HrxcbLR1I3-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1.004;entryY=0.759;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v0ro38-pH1W2L11CEjts-2" target="EbAioNc_ZzHBUW8JC9eh-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="JDtYKTNGY9HrxcbLR1I3-33" value="取消包材总成件选项" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="-230" width="140" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
