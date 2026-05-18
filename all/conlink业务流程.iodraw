@@ -310,9 +310,10 @@
             <mxPoint x="23" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jRbHX8CSwpANmxKNQ8Nv-79" target="jRbHX8CSwpANmxKNQ8Nv-33">
+        <mxCell id="jRbHX8CSwpANmxKNQ8Nv-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="jRbHX8CSwpANmxKNQ8Nv-33">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="880" y="-336.0000000000002" as="targetPoint" />
+            <mxPoint x="1050" y="-336.0000000000002" as="targetPoint" />
+            <mxPoint x="1070" y="-340" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JDtYKTNGY9HrxcbLR1I3-31" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;企业审批&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" vertex="1">
@@ -418,7 +419,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-33" value="组织权限管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="-356" width="90" height="40" as="geometry" />
+          <mxGeometry x="1080" y="-356" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-35" value="流程信息包含：&lt;br style=&quot;font-size: 11px;&quot;&gt;1.BOM信息（包材信息及BOM组成关系）&lt;div style=&quot;font-size: 11px;&quot;&gt;2.路线信息（定义BOM在系统中的流程流转节点信息）&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;3.包材货源关系（用于客户工厂返空提供包材信息）&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#d0cee2;strokeColor=#56517e;sketch=1;curveFitting=1;jiggle=2;fontStyle=1;align=left;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="1010" y="-600" width="280" height="120" as="geometry" />
@@ -500,10 +501,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-71" value="客户工厂/&lt;div&gt;零件供应商&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;strokeWidth=2;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="-376" width="80" height="80" as="geometry" />
+          <mxGeometry x="1270" y="-376" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-73" value="关联VMI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="-356" width="90" height="40" as="geometry" />
+          <mxGeometry x="1450" y="-356" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-75" value="用户一览" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="-220" width="90" height="40" as="geometry" />
@@ -515,7 +516,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jRbHX8CSwpANmxKNQ8Nv-79" value="企业管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="-360" width="90" height="40" as="geometry" />
+          <mxGeometry x="890" y="-356" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
